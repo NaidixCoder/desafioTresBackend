@@ -1,0 +1,19 @@
+{
+  "name": "desafio-tres-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desafio numero 3 - Infante Matias",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Infante Matias",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
