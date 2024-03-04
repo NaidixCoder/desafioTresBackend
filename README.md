@@ -6,7 +6,6 @@
 
 ```bash
 git clone https://github.com/NaidixCoder/pf-react
-
 ```
 
 ### 2. Inicia Node
@@ -23,10 +22,10 @@ npm install express
 
 ```bash
 npm install nodemon --save-dev
+```
 
 ## Autor
 
 Matias Infante
 
 - [@NaidixCoder](https://www.github.com/https://github.com/NaidixCoder)
-```
