@@ -24,6 +24,12 @@ npm install express
 npm install nodemon --save-dev
 ```
 
+### 4. Iniciar el servidor
+
+```bash
+npm run dev
+```
+
 ## Autor
 
 Matias Infante
